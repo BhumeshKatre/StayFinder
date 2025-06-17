@@ -1,0 +1,30 @@
+
+     /* colors: {
+            primary: '#FF5A5F',
+            secondary: '#484848',
+            accent: '#00A699',
+            background: '#F7F7F7',
+            text: '#222222',
+            hover: '#e0484d',
+            disabled: '#cccccc',
+            card: '#ffffff',
+   */
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  boxsizing: border-box;
+  /* text-align: center; */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.cardSecton::-webkit-scrollbar {
+  display: none !important ;
+
+}
